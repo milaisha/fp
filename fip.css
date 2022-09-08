@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+#rectangleHeading {
+    color: green;
+}
+
+#circleHeading {
+    color: blue;
+}
+
+#triangleHeading {
+    color: red;
+}
+h2 {
+    color: hotpink;
+}
+input{
+    color: purple;
+}
